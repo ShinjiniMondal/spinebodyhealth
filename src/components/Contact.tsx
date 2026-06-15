@@ -51,7 +51,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-brand-navy mb-1">Phone</h4>
-                  <a href="tel:01908000000" className="text-brand-teal font-medium hover:underline">01908 XXX XXX</a>
+                  <a href="tel:0333 772 9655" className="text-brand-teal font-medium hover:underline">0333 772 9655</a>
                 </div>
               </div>
 
@@ -61,7 +61,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-bold text-brand-navy mb-1">Email</h4>
-                  <a href="mailto:info@spinebodyhealth.co.uk" className="text-brand-text/80 hover:text-brand-teal transition-colors">info@spinebodyhealth.co.uk</a>
+                  <a href="mailto:admin@mymskclinic.co.uk" className="text-brand-text/80 hover:text-brand-teal transition-colors">admin@mymskclinic.co.uk</a>
                 </div>
               </div>
 
